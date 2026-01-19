@@ -7,7 +7,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-image: url(image.png);
+  background-image: url(StrangerThings.png);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -34,7 +34,7 @@ main section {
   background-size: cover;
   background-position: center;
   transition: all 0.8s ease;
-  opacity: 0.5;
+  opacity: 0.3;
 }
 main section:nth-child(1) {
   background-image: url(https://i.pinimg.com/1200x/92/d0/63/92d0633405c1dddd64fec1238104b1c5.jpg);
